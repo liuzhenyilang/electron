@@ -1,0 +1,18 @@
+{
+  "name": "electron",
+  "version": "1.0.0",
+  "description": "custom electron for boom pc client",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@git.baijiashilian.com:LLL/electron-boom.git"
+  },
+  "keywords": [
+    "electron"
+  ],
+  "author": "liuzhen@baijiayun.com",
+  "license": "ISC"
+}
